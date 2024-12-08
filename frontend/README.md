@@ -1,37 +1,75 @@
-# SecHack365_4C_enjo Frontend
+# Nuxt Minimal Starter
 
-このディレクトリは、SecHack365の表現駆動コース チーム4Cのフロントエンドのディレクトリです。
+Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-### セットアップ方法
+## Setup
 
-```bash
-# まずはnode.jsをインストール
-# Install nvm (Node Version Manager)
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.0/install.sh | bash
-# Install node.js version 23 
-nvm install 23
-node -v
-npm -v
-# Install pnpm
-curl -fsSL https://get.pnpm.io/install.sh | sh -
-```
-
-### プロジェクトのセットアップ
+Make sure to install dependencies:
 
 ```bash
+# npm
+npm install
+
+# pnpm
 pnpm install
-pnpm install vuex
-pnpm install axios
-# Run Development Server
 
+# yarn
+yarn install
 
-pnpm dev
-# Type-Check, Compile and Minify for Production
-pnpm build
-# Lint
-pnpm lint
+# bun
+bun install
 ```
 
-## Customize configuration
+## Development Server
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Start the development server on `http://localhost:3000`:
+
+```bash
+# npm
+npm run dev
+
+# pnpm
+pnpm dev
+
+# yarn
+yarn dev
+
+# bun
+bun run dev
+```
+
+## Production
+
+Build the application for production:
+
+```bash
+# npm
+npm run build
+
+# pnpm
+pnpm build
+
+# yarn
+yarn build
+
+# bun
+bun run build
+```
+
+Locally preview production build:
+
+```bash
+# npm
+npm run preview
+
+# pnpm
+pnpm preview
+
+# yarn
+yarn preview
+
+# bun
+bun run preview
+```
+
+Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.

@@ -1,0 +1,289 @@
+{
+    "feed": [
+        {
+            "post": {
+                "uri": "at://did:plc:eqda2qdjxllktyjnceeehrlc/app.bsky.feed.post/3lcrwkyqhzl2e",
+                "cid": "bafyreihmjfpucmc5wqtfrwtcmfdfqxly27q63o52lsm77rzhxhbty7li4q",
+                "author": {
+                    "did": "did:plc:eqda2qdjxllktyjnceeehrlc",
+                    "handle": "tomo0611.bsky.social",
+                    "displayName": "tomo0611",
+                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eqda2qdjxllktyjnceeehrlc/bafkreiavnsmebgma42aypy4kl23ytrrpi722yn5xg4sir4bbfvfwgssxie@jpeg",
+                    "viewer": {
+                        "muted": false,
+                        "blockedBy": false
+                    },
+                    "labels": [],
+                    "createdAt": "2024-12-08T09:40:16.946Z"
+                },
+                "record": {
+                    "$type": "app.bsky.feed.post",
+                    "createdAt": "2024-12-08T09:47:12.836152+00:00",
+                    "langs": [
+                        "en"
+                    ],
+                    "text": "Hello world! I posted this via the Python SDK."
+                },
+                "replyCount": 0,
+                "repostCount": 0,
+                "likeCount": 0,
+                "quoteCount": 0,
+                "indexedAt": "2024-12-08T09:47:13.356Z",
+                "viewer": {
+                    "threadMuted": false,
+                    "embeddingDisabled": false
+                },
+                "labels": []
+            }
+        },
+        {
+            "post": {
+                "uri": "at://did:plc:lxy2qcslv2mw5hlpwh7w5c2t/app.bsky.feed.post/3lcrurhqskq2b",
+                "cid": "bafyreig675fkekouqqr2edrhhgwpat6ncsumobhqlqcmg64jpjbbfotb7m",
+                "author": {
+                    "did": "did:plc:lxy2qcslv2mw5hlpwh7w5c2t",
+                    "handle": "animenewsnetwork.com",
+                    "displayName": "Anime News Network",
+                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lxy2qcslv2mw5hlpwh7w5c2t/bafkreiclskea4s4cjbdvtkxikh3a73cssjflhmmyr3hxsmzzgytxf4zfye@jpeg",
+                    "viewer": {
+                        "muted": false,
+                        "blockedBy": false,
+                        "following": "at://did:plc:eqda2qdjxllktyjnceeehrlc/app.bsky.graph.follow/3lcrwnzk4fn2z"
+                    },
+                    "labels": [],
+                    "createdAt": "2023-07-10T09:41:44.615Z"
+                },
+                "record": {
+                    "$type": "app.bsky.feed.post",
+                    "createdAt": "2024-12-08T09:15:01.532+00:00",
+                    "embed": {
+                        "$type": "app.bsky.embed.external",
+                        "external": {
+                            "description": "Ryūsei Fujii, Ayaka Konno star in February 3 series",
+                            "thumb": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigydjmjqlzqv4nbuujhfk6yu5caabwv5vpp53wnfva2lco3ol3eb4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 19715
+                            },
+                            "title": "Seal My Lips With a Kiss Manga Gets Live-Action Series",
+                            "uri": "https://www.animenewsnetwork.com/news/2024-12-07/seal-my-lips-with-a-kiss-manga-gets-live-action-series/.218730"
+                        }
+                    },
+                    "langs": [
+                        "en"
+                    ],
+                    "text": "Fudono Fudou's Seal My Lips With a Kiss manga is getting a live-action series that will debut on February 3."
+                },
+                "embed": {
+                    "$type": "app.bsky.embed.external#view",
+                    "external": {
+                        "uri": "https://www.animenewsnetwork.com/news/2024-12-07/seal-my-lips-with-a-kiss-manga-gets-live-action-series/.218730",
+                        "title": "Seal My Lips With a Kiss Manga Gets Live-Action Series",
+                        "description": "Ryūsei Fujii, Ayaka Konno star in February 3 series",
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lxy2qcslv2mw5hlpwh7w5c2t/bafkreigydjmjqlzqv4nbuujhfk6yu5caabwv5vpp53wnfva2lco3ol3eb4@jpeg"
+                    }
+                },
+                "replyCount": 0,
+                "repostCount": 1,
+                "likeCount": 4,
+                "quoteCount": 0,
+                "indexedAt": "2024-12-08T09:15:04.050Z",
+                "viewer": {
+                    "threadMuted": false,
+                    "embeddingDisabled": false
+                },
+                "labels": []
+            }
+        },
+        {
+            "post": {
+                "uri": "at://did:plc:lxy2qcslv2mw5hlpwh7w5c2t/app.bsky.feed.post/3lcru7lhlxf2b",
+                "cid": "bafyreicvcuxlxjvv37jhcd6rceeylvzyy6jlxphoonjsgsar4sprz3dssm",
+                "author": {
+                    "did": "did:plc:lxy2qcslv2mw5hlpwh7w5c2t",
+                    "handle": "animenewsnetwork.com",
+                    "displayName": "Anime News Network",
+                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lxy2qcslv2mw5hlpwh7w5c2t/bafkreiclskea4s4cjbdvtkxikh3a73cssjflhmmyr3hxsmzzgytxf4zfye@jpeg",
+                    "viewer": {
+                        "muted": false,
+                        "blockedBy": false,
+                        "following": "at://did:plc:eqda2qdjxllktyjnceeehrlc/app.bsky.graph.follow/3lcrwnzk4fn2z"
+                    },
+                    "labels": [],
+                    "createdAt": "2023-07-10T09:41:44.615Z"
+                },
+                "record": {
+                    "$type": "app.bsky.feed.post",
+                    "createdAt": "2024-12-08T09:05:01.645+00:00",
+                    "embed": {
+                        "$type": "app.bsky.embed.external",
+                        "external": {
+                            "description": "Rie Kugimiya, Chikahiro Kobayashi join cast",
+                            "thumb": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibgawchzxhthpt4b7etrehxhqddz4b2jjfx3tps42kf4k6jeld6rm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 23408
+                            },
+                            "title": "Black Butler: Emerald Witch Arc Anime Reveals 2 New Cast, More Returning Staff, April 2025 Debut",
+                            "uri": "https://www.animenewsnetwork.com/news/2024-12-08/black-butler-emerald-witch-arc-anime-reveals-2-new-cast-more-returning-staff-april-2025-debut/.218743"
+                        }
+                    },
+                    "langs": [
+                        "en"
+                    ],
+                    "text": "Rie Kugimiya and Chikahiro Kobayashi have joined the cast of Black Butler: Emerald Witch Arc, which will debut in April."
+                },
+                "embed": {
+                    "$type": "app.bsky.embed.external#view",
+                    "external": {
+                        "uri": "https://www.animenewsnetwork.com/news/2024-12-08/black-butler-emerald-witch-arc-anime-reveals-2-new-cast-more-returning-staff-april-2025-debut/.218743",
+                        "title": "Black Butler: Emerald Witch Arc Anime Reveals 2 New Cast, More Returning Staff, April 2025 Debut",
+                        "description": "Rie Kugimiya, Chikahiro Kobayashi join cast",
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lxy2qcslv2mw5hlpwh7w5c2t/bafkreibgawchzxhthpt4b7etrehxhqddz4b2jjfx3tps42kf4k6jeld6rm@jpeg"
+                    }
+                },
+                "replyCount": 0,
+                "repostCount": 2,
+                "likeCount": 6,
+                "quoteCount": 0,
+                "indexedAt": "2024-12-08T09:05:03.255Z",
+                "viewer": {
+                    "threadMuted": false,
+                    "embeddingDisabled": false
+                },
+                "labels": []
+            }
+        },
+        {
+            "post": {
+                "uri": "at://did:plc:lxy2qcslv2mw5hlpwh7w5c2t/app.bsky.feed.post/3lcrqn6eq3b2f",
+                "cid": "bafyreihh22nb4wxt534phi33mbbm7rsvwrrxg3azjj7t3am3yxjbxmvdkq",
+                "author": {
+                    "did": "did:plc:lxy2qcslv2mw5hlpwh7w5c2t",
+                    "handle": "animenewsnetwork.com",
+                    "displayName": "Anime News Network",
+                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lxy2qcslv2mw5hlpwh7w5c2t/bafkreiclskea4s4cjbdvtkxikh3a73cssjflhmmyr3hxsmzzgytxf4zfye@jpeg",
+                    "viewer": {
+                        "muted": false,
+                        "blockedBy": false,
+                        "following": "at://did:plc:eqda2qdjxllktyjnceeehrlc/app.bsky.graph.follow/3lcrwnzk4fn2z"
+                    },
+                    "labels": [],
+                    "createdAt": "2023-07-10T09:41:44.615Z"
+                },
+                "record": {
+                    "$type": "app.bsky.feed.post",
+                    "createdAt": "2024-12-08T08:01:01.742+00:00",
+                    "embed": {
+                        "$type": "app.bsky.embed.external",
+                        "external": {
+                            "description": "New episodes to stream on Fridays",
+                            "thumb": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidag4gimuityc7aicnwe4tmhgzu7aooisq4werc4lcwtmholetpj4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 42773
+                            },
+                            "title": "Kaiju No. 8 Launches Series of Anime Shorts",
+                            "uri": "https://www.animenewsnetwork.com/news/2024-12-08/kaiju-no-8-launches-series-of-anime-shorts/.218728"
+                        }
+                    },
+                    "langs": [
+                        "en"
+                    ],
+                    "text": "Kaiju No. 8 has revealed a new series of anime shorts, and the first episode is available now."
+                },
+                "embed": {
+                    "$type": "app.bsky.embed.external#view",
+                    "external": {
+                        "uri": "https://www.animenewsnetwork.com/news/2024-12-08/kaiju-no-8-launches-series-of-anime-shorts/.218728",
+                        "title": "Kaiju No. 8 Launches Series of Anime Shorts",
+                        "description": "New episodes to stream on Fridays",
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lxy2qcslv2mw5hlpwh7w5c2t/bafkreidag4gimuityc7aicnwe4tmhgzu7aooisq4werc4lcwtmholetpj4@jpeg"
+                    }
+                },
+                "replyCount": 1,
+                "repostCount": 1,
+                "likeCount": 7,
+                "quoteCount": 0,
+                "indexedAt": "2024-12-08T08:01:04.252Z",
+                "viewer": {
+                    "threadMuted": false,
+                    "embeddingDisabled": false
+                },
+                "labels": []
+            }
+        },
+        {
+            "post": {
+                "uri": "at://did:plc:lxy2qcslv2mw5hlpwh7w5c2t/app.bsky.feed.post/3lcrpfsagkt2d",
+                "cid": "bafyreibiocolleqir2yqqykeh64gr7ccdita3rwknp6pjb4uc66dw3oqhq",
+                "author": {
+                    "did": "did:plc:lxy2qcslv2mw5hlpwh7w5c2t",
+                    "handle": "animenewsnetwork.com",
+                    "displayName": "Anime News Network",
+                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lxy2qcslv2mw5hlpwh7w5c2t/bafkreiclskea4s4cjbdvtkxikh3a73cssjflhmmyr3hxsmzzgytxf4zfye@jpeg",
+                    "viewer": {
+                        "muted": false,
+                        "blockedBy": false,
+                        "following": "at://did:plc:eqda2qdjxllktyjnceeehrlc/app.bsky.graph.follow/3lcrwnzk4fn2z"
+                    },
+                    "labels": [],
+                    "createdAt": "2023-07-10T09:41:44.615Z"
+                },
+                "record": {
+                    "$type": "app.bsky.feed.post",
+                    "createdAt": "2024-12-08T07:39:01.852+00:00",
+                    "embed": {
+                        "$type": "app.bsky.embed.external",
+                        "external": {
+                            "description": "Be-Bop High School film actress was found dead at her home on Friday",
+                            "thumb": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreie5zbwxh6xq3uuls36jepqd3b7w43dklr4liwaipgipchmqzt7npa"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 13380
+                            },
+                            "title": "Cause of Death Revealed for Actress, Singer Miho Nakayama",
+                            "uri": "https://www.animenewsnetwork.com/news/2024-12-06/actress-singer-miho-nakayama-dies-at-54/.218703"
+                        }
+                    },
+                    "langs": [
+                        "en"
+                    ],
+                    "text": "The autopsy of actress and singer Miho Nakayama concluded an accident occurred while she was bathing, and no criminality was involved."
+                },
+                "embed": {
+                    "$type": "app.bsky.embed.external#view",
+                    "external": {
+                        "uri": "https://www.animenewsnetwork.com/news/2024-12-06/actress-singer-miho-nakayama-dies-at-54/.218703",
+                        "title": "Cause of Death Revealed for Actress, Singer Miho Nakayama",
+                        "description": "Be-Bop High School film actress was found dead at her home on Friday",
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lxy2qcslv2mw5hlpwh7w5c2t/bafkreie5zbwxh6xq3uuls36jepqd3b7w43dklr4liwaipgipchmqzt7npa@jpeg"
+                    }
+                },
+                "replyCount": 1,
+                "repostCount": 3,
+                "likeCount": 12,
+                "quoteCount": 0,
+                "indexedAt": "2024-12-08T07:39:02.549Z",
+                "viewer": {
+                    "threadMuted": false,
+                    "embeddingDisabled": false
+                },
+                "labels": []
+            }
+        }
+    ],
+    "cursor": "2024-12-06T23:30:02.257Z"
+}

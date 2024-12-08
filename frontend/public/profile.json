@@ -1,0 +1,25 @@
+{
+    "did": "did:plc:lxy2qcslv2mw5hlpwh7w5c2t",
+    "handle": "animenewsnetwork.com",
+    "displayName": "Anime News Network",
+    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lxy2qcslv2mw5hlpwh7w5c2t/bafkreiclskea4s4cjbdvtkxikh3a73cssjflhmmyr3hxsmzzgytxf4zfye@jpeg",
+    "associated": {
+        "lists": 0,
+        "feedgens": 0,
+        "starterPacks": 0,
+        "labeler": false
+    },
+    "viewer": {
+        "muted": false,
+        "blockedBy": false,
+        "following": "at://did:plc:eqda2qdjxllktyjnceeehrlc/app.bsky.graph.follow/3lcrwnzk4fn2z"
+    },
+    "labels": [],
+    "createdAt": "2023-07-10T09:41:44.615Z",
+    "description": "The internet's most trusted source of anime news.",
+    "indexedAt": "2024-01-20T05:37:11.495Z",
+    "banner": "https://cdn.bsky.app/img/banner/plain/did:plc:lxy2qcslv2mw5hlpwh7w5c2t/bafkreic3f3nffz2hlrajqipcdvi363x523a3xz25wzkfjrxt5y5uvvcthe@jpeg",
+    "followersCount": 18973,
+    "followsCount": 0,
+    "postsCount": 9799
+}
